@@ -1,0 +1,175 @@
+code	200
+currentTime	1586235898529
+data	
+limitExceeded	false
+stops	
+0	
+code	"303565"
+direction	"W"
+id	"MTA_303565"
+lat	40.671401
+locationType	0
+lon	-73.94464
+name	"ST JOHNS PL/BROOKLYN AV"
+routes	
+0	
+agency	
+disclaimer	""
+id	"MTA NYCT"
+lang	"en"
+name	"MTA New York City Transit"
+phone	"718-330-1234"
+privateService	false
+timezone	"America/New_York"
+url	"http://www.mta.info"
+color	"EE352E"
+description	"via St Johns Place"
+id	"MTA NYCT_B45"
+longName	"Downtown Brooklyn - Crown Heights"
+shortName	"B45"
+textColor	"FFFFFF"
+type	3
+url	""
+wheelchairBoarding	"UNKNOWN"
+1	
+code	"303780"
+direction	"S"
+id	"MTA_303780"
+lat	40.672803
+locationType	0
+lon	-73.944729
+name	"BROOKLYN AV/PARK PL"
+routes	
+0	
+agency	
+disclaimer	""
+id	"MTA NYCT"
+lang	"en"
+name	"MTA New York City Transit"
+phone	"718-330-1234"
+privateService	false
+timezone	"America/New_York"
+url	"http://www.mta.info"
+color	"EE352E"
+description	"via Manhattan Av / Graham Av / Tompkins Av"
+id	"MTA NYCT_B43"
+longName	"Greenpoint - Lefferts Gardens"
+shortName	"B43"
+textColor	"FFFFFF"
+type	3
+url	""
+wheelchairBoarding	"UNKNOWN"
+2	
+code	"303781"
+direction	"S"
+id	"MTA_303781"
+lat	40.670992
+locationType	0
+lon	-73.944899
+name	"BROOKLYN AV/ST JOHNS PL"
+routes	
+0	
+agency	
+disclaimer	""
+id	"MTA NYCT"
+lang	"en"
+name	"MTA New York City Transit"
+phone	"718-330-1234"
+privateService	false
+timezone	"America/New_York"
+url	"http://www.mta.info"
+color	"EE352E"
+description	"via Manhattan Av / Graham Av / Tompkins Av"
+id	"MTA NYCT_B43"
+longName	"Greenpoint - Lefferts Gardens"
+shortName	"B43"
+textColor	"FFFFFF"
+type	3
+url	""
+wheelchairBoarding	"UNKNOWN"
+3	
+code	"303782"
+direction	"S"
+id	"MTA_303782"
+lat	40.669856
+locationType	0
+lon	-73.945009
+name	"BROOKLYN AV/EASTERN PY"
+routes	
+0	
+agency	
+disclaimer	""
+id	"MTA NYCT"
+lang	"en"
+name	"MTA New York City Transit"
+phone	"718-330-1234"
+privateService	false
+timezone	"America/New_York"
+url	"http://www.mta.info"
+color	"EE352E"
+description	"via Manhattan Av / Graham Av / Tompkins Av"
+id	"MTA NYCT_B43"
+longName	"Greenpoint - Lefferts Gardens"
+shortName	"B43"
+textColor	"FFFFFF"
+type	3
+url	""
+wheelchairBoarding	"UNKNOWN"
+4	
+code	"308136"
+direction	"N"
+id	"MTA_308136"
+lat	40.668732
+locationType	0
+lon	-73.942191
+name	"KINGSTON AV/UNION ST"
+routes	
+0	
+agency	
+disclaimer	""
+id	"MTA NYCT"
+lang	"en"
+name	"MTA New York City Transit"
+phone	"718-330-1234"
+privateService	false
+timezone	"America/New_York"
+url	"http://www.mta.info"
+color	"EE352E"
+description	"via Manhattan Av / Graham Av / Tompkins Av"
+id	"MTA NYCT_B43"
+longName	"Greenpoint - Lefferts Gardens"
+shortName	"B43"
+textColor	"FFFFFF"
+type	3
+url	""
+wheelchairBoarding	"UNKNOWN"
+5	
+code	"308425"
+direction	"E"
+id	"MTA_308425"
+lat	40.671239
+locationType	0
+lon	-73.944369
+name	"ST JOHNS PL/BROOKLYN AV"
+routes	
+0	
+agency	
+disclaimer	""
+id	"MTA NYCT"
+lang	"en"
+name	"MTA New York City Transit"
+phone	"718-330-1234"
+privateService	false
+timezone	"America/New_York"
+url	"http://www.mta.info"
+color	"EE352E"
+description	"via St Johns Place"
+id	"MTA NYCT_B45"
+longName	"Downtown Brooklyn - Crown Heights"
+shortName	"B45"
+textColor	"FFFFFF"
+type	3
+url	""
+wheelchairBoarding	"UNKNOWN"
+text	"OK"
+version	1
